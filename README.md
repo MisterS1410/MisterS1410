@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MisterS1410
-- 👀 I’m interested in engeneering, codiung and manufacturing.
+- 👀 I’m interested in engeneering, coding and manufacturing.
 - 🌱 I’m currently learning C#, Java and Swedish.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
